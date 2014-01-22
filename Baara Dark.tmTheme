@@ -72,6 +72,39 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Interpolated variable</string>
+			<key>scope</key>
+			<string>variable.interpolation</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#6F7533</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Interpolated variable punctuation</string>
+			<key>scope</key>
+			<string>variable.interpolation.punctuation</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#455623</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Variable</string>
+			<key>scope</key>
+			<string>variable</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ccbbaa</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>String Link, Regular Expression, Tag Name</string>
 			<key>scope</key>
 			<string>support.other.variable, string.other.link, string.regexp, entity.name.tag, entity.other.attribute-name, meta.tag, declaration.tag</string>
