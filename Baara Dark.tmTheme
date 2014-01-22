@@ -72,6 +72,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Escape sequences</string>
+			<key>scope</key>
+			<string>constant.numeric.octal.interpolation.php, constant.numeric.hex.interpolation.php, constant.character.escape.interpolation.php</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#6F7533</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Interpolated variable</string>
 			<key>scope</key>
 			<string>variable.interpolation</string>
