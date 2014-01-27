@@ -16,12 +16,12 @@ box, then hit enter or click on the result to install.
 
 ## Changes
 
-**1.0.5**: Add support for GitGutter
-**1.0.4**: Lighten line numbers color to match comments
-**1.0.3**: Add color for escape sequences inside double quoted strings
-**1.0.2**: Add support for interpolated variables and its braces
-**1.0.1**: Add styles for basic Markdown Extended elements
-**1.0.0**: Initial release
+*  **1.0.5**: Add support for GitGutter
+*  **1.0.4**: Lighten line numbers color to match comments
+*  **1.0.3**: Add color for escape sequences inside double quoted strings
+*  **1.0.2**: Add support for interpolated variables and its braces
+*  **1.0.1**: Add styles for basic Markdown Extended elements
+*  **1.0.0**: Initial release
 
 ## The MIT License (MIT)
 
