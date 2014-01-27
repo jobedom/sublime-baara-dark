@@ -1,6 +1,6 @@
 # Color Scheme - Baara Dark
 
-Sublime Text color scheme. Goes well with [PHP Modern](https://github.com/jobedom/sublime-php-modern) syntax definition.
+Sublime Text color scheme. Goes well with [PHP Modern](https://github.com/jobedom/sublime-php-modern) syntax definition. Includes support for [GitGutter](https://sublime.wbond.net/packages/GitGutter).
 
 ![Screenshot](https://raw.github.com/jobedom/sublime-baara-dark/master/screenshot.png)
 
