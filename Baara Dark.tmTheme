@@ -14,23 +14,36 @@
 				<key>background</key>
 				<string>#000</string>
 				<key>caret</key>
-				<string>#AEAFAD</string>
+				<string>#aeafad</string>
 				<key>foreground</key>
-				<string>#bbbbbb</string>
+				<string>#333</string>
 				<key>invisibles</key>
 				<string>#4B4E55</string>
 				<key>gutterForeground</key>
-				<string>#60708080</string>
+				<string>#222</string>
 				<key>gutter</key>
-				<string>#ffffff08</string>
+				<string>#070707</string>
 				<key>lineHighlight</key>
 				<string>#ffffff04</string>
 				<key>selection</key>
-				<string>#AAD0E650</string>
+				<string>#AAD0E630</string>
 				<key>guide</key>
-				<string>#ffffff07</string>
+				<string>#111</string>
 				<key>activeGuide</key>
-				<string>#ffffff14</string>
+				<string>#181818</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Source base background</string>
+			<key>scope</key>
+			<string>text, source</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#bbbbbb</string>
+				<key>background</key>
+				<string>#000</string>
 			</dict>
 		</dict>
 		<dict>
