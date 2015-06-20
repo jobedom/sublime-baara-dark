@@ -20,7 +20,7 @@
 				<key>invisibles</key>
 				<string>#4B4E55</string>
 				<key>gutterForeground</key>
-				<string>#222</string>
+				<string>#161616</string>
 				<key>gutter</key>
 				<string>#070707</string>
 				<key>lineHighlight</key>
